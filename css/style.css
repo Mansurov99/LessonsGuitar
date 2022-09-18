@@ -1450,7 +1450,7 @@ html {
   /* line 655, ../Project-2/src/sass/style.sass */
   .title {
     font-size: 45px;
-    margin: 0 0 25px 0;
+    margin: 0 auto;
   }
   /* line 659, ../Project-2/src/sass/style.sass */
   .title__hr {
